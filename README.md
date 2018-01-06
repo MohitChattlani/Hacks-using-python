@@ -1,4 +1,4 @@
-# Basic Python
+# Hacks using Python
 
 Some hacks using python. 
 
